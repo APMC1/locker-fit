@@ -33,7 +33,9 @@ The link redirects. Commission is paid once DavPack marks the programme as joine
 
 **Parcel2Go (18733).** Application awaiting approval. The courier page still uses `https://www.parcel2go.com/`. Add a tracking link only after approval, and only on a page about custom shipping or oversized parcels.
 
-**Pages live:** courier choice, coat packing, measuring, printer-free drop-off, locker full, bundles.
+**Pages live:** courier choice, coat packing, measuring, printer-free drop-off, locker full, bundles, label refused.
+
+**Search Console:** not added. It needs the Google account that should own the property. Open https://search.google.com/search-console/welcome, add the URL-prefix property `https://apmc1.github.io/locker-fit/`, and verify it. Then submit `https://apmc1.github.io/locker-fit/sitemap.xml`.
 
 **Next page:** not chosen. Do not add a Parcel2Go page until that programme approves the site.
 
