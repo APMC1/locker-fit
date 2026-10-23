@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apmc1.github.io/locker-fit/sitemap.xml
