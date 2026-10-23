@@ -33,9 +33,9 @@ The link redirects. Commission is paid once DavPack marks the programme as joine
 
 **Parcel2Go (18733).** Application awaiting approval. The courier page still uses `https://www.parcel2go.com/`. Add a tracking link only after approval, and only on a page about custom shipping or oversized parcels.
 
-**Pages live:** courier choice, coat packing.
+**Pages live:** courier choice, coat packing, measuring (pit-to-pit, waistband, length).
 
-**Next page:** Vinted UK measuring tape method (pit-to-pit, waist, length). Not written.
+**Next page:** not chosen. Printer-free drop-off is the following note on the coat page. Do not publish it until the QR rules are read from Vinted Help the same day.
 
 ## Rules that stay
 
@@ -47,4 +47,4 @@ The link redirects. Commission is paid once DavPack marks the programme as joine
 
 ## Scaling
 
-Do not run an unattended publisher yet. Two pages are live and there are no measured sales. A nightly job can draft the next page from a fixed blueprint, then stop. A person checks the official source that day and commits only the passing draft to the public repository. Write the measuring page by hand first. That page is the blueprint. Automate drafts after it exists, not before.
+Do not run an unattended publisher yet. Three pages are live and there are no measured sales. The measuring page is the blueprint: one query, the help URLs fetched that day, a flat statement of what those pages do and do not say, and a stop before any number Vinted did not publish. A nightly job can draft the next page from that shape, then stop. A person checks the official source and commits only the passing draft to the public repository.
